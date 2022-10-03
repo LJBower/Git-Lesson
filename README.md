@@ -1,6 +1,6 @@
 # Git Lesson
 
-You can find notes from the course on my new [web-site](https://ljbower.github.io/Git-Lesson/)
+You can find notes from the course on my new [web-site](https://ljbower.github.io/Git-Lesson/).
 
 ## ToDo List
 
