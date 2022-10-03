@@ -16,3 +16,12 @@
 * Stage the file
 * Commit the file and write a message
 * Push to GitHub
+
+And add more text to your file and then stage it again.
+
+## Shopping List
+* Bread
+* Milk
+* Fruit
+* Veg
+* Eggs
