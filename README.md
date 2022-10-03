@@ -20,8 +20,16 @@
 And add more text to your file and then stage it again.
 
 ## Shopping List
+
 * Bread
 * Milk
 * Fruit
 * Veg
 * Eggs
+
+## Don't Forget
+
+* Wash the pots
+* Do the laundry
+* Take the bins out
+* Sweep the floors
